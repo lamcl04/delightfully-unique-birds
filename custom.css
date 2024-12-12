@@ -1,0 +1,73 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+#header {
+    background-image: url(assets/beaks.jpg) !important;
+}
+
+
+h1 {
+    background-color: rgba(119, 187, 145, 0.9);
+}
+
+h1, h2, .navbar-brand {
+    font-family: "IM Fell Double Pica SC", serif;
+}
+
+p, #navbarResponsive, .btn {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 19px;
+}
+
+.btn {
+    color: white;
+    text-decoration: none;
+}
+
+.btn:hover {
+    color: #376e4c !important;
+}
+
+a:link {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 19px;
+    color: #1b58a8;
+}
+
+a:hover {
+    color: #2374dc;
+}
+
+a:visited {
+    color: #0f2f5a;
+}
+
+#popover-trigger-1, #popover-trigger-2, #popover-trigger-3, #popover-trigger-4 {
+    color: #4d996a;
+}
+
+#mainNav {
+    background-color: #77bb91 !important;
+}
+
+
+#foot {
+    background-color: #77bb91;
+}
+
+#accordion, #accordionTwo {
+    width: 50%;
+}
+
+#accordion {
+    margin-bottom: 30px;
+}
+
+#About, #Acorn, #Bearded, #Kakapo, #Cassowary, #Links {
+    background-color: rgba(255, 250, 235, 1);
+}
+
+.card {
+    background-color: #77bb91;
+}
+
+
+
